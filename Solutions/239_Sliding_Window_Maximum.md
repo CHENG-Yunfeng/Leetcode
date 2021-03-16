@@ -22,7 +22,7 @@ public:
 };
 ```
 ### 结果
-![method 1](/results/Offer59-I-1.png)
+![method 1](./results/Offer59-I-1.png)
 ### 缺点
 没有利用相邻滑动窗口之间重叠部分的信息
 
@@ -75,7 +75,7 @@ public:
 };
 ```
 ### 结果
-![method 2](/results/Offer59-I-2.png)
+![method 2](./results/Offer59-I-2.png)
 
 ## 3. 优化后的代码
 看了一下，感觉和方法二差不多。
